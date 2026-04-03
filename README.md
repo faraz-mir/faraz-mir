@@ -2,18 +2,22 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faraz-mir&label=Profile%20views&color=0e75b6&style=flat" alt="faraz-mir" />
+  <img src="https://img.shields.io/github/followers/faraz-mir?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **[your current project]**
-- 🌱 I'm currently learning **[technologies / skills you're learning]**
-- 👯 I'm looking to collaborate on **[open source / interesting projects]**
-- 💬 Ask me about **[your areas of expertise]**
-- 📫 How to reach me: **[your email or contact]**
-- ⚡ Fun fact: **[something interesting about you]**
+🎓 B.Tech CSE student passionate about **Data Science**, **Machine Learning**, and **Computer Vision**
+
+🤖 I love building intelligent systems — from predictive models to deep learning pipelines
+
+🌱 Currently sharpening my skills in **ML research** and looking to **contribute to open source projects**
+
+📊 I enjoy turning raw data into meaningful insights through visualization and modeling
+
+💡 Always curious, always learning — one dataset at a time
 
 ---
 
@@ -21,14 +25,32 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!-- Add or remove badges as needed -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- Add or remove badges as needed -->
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🔬 Areas of Interest
+
+- 🖼️ **Computer Vision** — image classification, object detection, OpenCV pipelines
+- 📈 **Predictive Modeling** — regression, classification, time series forecasting
+- 🧠 **Deep Learning** — CNNs, RNNs, transformer-based architectures
+- 📊 **Data Analysis & Visualization** — EDA, storytelling with data
 
 ---
 
@@ -48,35 +70,27 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/faraz-mir-b77027326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.kaggle.com/zoro107786" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:farazzahoormir.mir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Add more social links as needed -->
 </p>
 
 ---
 
+## 🤝 Open to
+
+- 🔓 Open Source Contributions in ML / Data Science projects
+- 🧪 Research collaborations
+- 💬 Discussions on AI, Deep Learning & Computer Vision
+
+---
+
 <p align="center">
-  <i>"[Your favorite quote or motto]"</i>
+  <i>"Data is the new oil — and I'm here to refine it."</i>
 </p>
-
-<!--
-**faraz-mir/faraz-mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
